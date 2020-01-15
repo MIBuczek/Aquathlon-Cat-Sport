@@ -1,8 +1,8 @@
 # AQUATHLON WROCŁAW & CATSPORT
 
-[Workin web-site Aquathlon Wrocław](http://www.aquathlonwroclaw.pl/aquathlon.html)
+[Aquathlon Wrocław](http://www.aquathlonwroclaw.pl/aquathlon.html)
 &
-[Workin web-site Catsport](http://www.catsport.pl/cat.html)
+[Catsport](http://www.catsport.pl/cat.html)
 
 Is a hybrid onepage site web made for competition in Wrocław and also for My friend Triathloner who orgaznize this event.
 
