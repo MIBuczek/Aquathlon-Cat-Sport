@@ -1,0 +1,37 @@
+.filter {
+  padding-top: 1.5rem;
+  padding-bottom: 0.8rem;
+  height: auto;
+  .section-title {
+    margin-bottom: 0.5rem;
+  }
+  h2,
+  .section-title {
+    text-align: center;
+  }
+  h2 {
+    margin-bottom: 3.25rem;
+  }
+  .grid {
+    margin-top: 1.25rem;
+    border-radius: 0.375rem;
+    width: 100%;
+    height: auto;
+    .element-item {
+      overflow: hidden;
+      width: 16%;
+      background-color: $white;
+    }
+    .element-item img {
+      max-width: 100%;
+      height: auto;
+      margin: 0;
+      transition: all 0.3s;
+    }
+    .element-item:hover img {
+      -moz-transform: scale(1.15);
+      -webkit-transform: scale(1.15);
+      transform: scale(1.15);
+    }
+  }
+}
