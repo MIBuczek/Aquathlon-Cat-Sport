@@ -4,8 +4,7 @@
 &
 [Catsport](http://www.catsport.pl/cat.html)
 
-Is a hybrid onepage site web made for competition in Wrocław and also for My friend Triathloner who orgaznize this event.
-
+It is a hybrid one-page web-site made for aquathlon competition in Wrocław organised by my friend.
 ## Rooth
 
 I use for this web SCSS / Jquery / Bootstramp pack (hotestly - just for test).
